@@ -6,7 +6,7 @@ If you work in a group of more than 1 student, then you should include an append
 
 Note this appendix and any related work are exempt from the word limit identified above.
 
-Content
+Content:
 
 Your final report must include the following:
 
